@@ -7,7 +7,7 @@
 - 📫 How to reach me:
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bartosz-szar-25368a184/)](https://www.linkedin.com/in/bartosz-szar-25368a184/)
 [![Gmail](https://img.shields.io/badge/szarbartosz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:szarbartosz@gmail.com)](mailto:szarbartosz@gmail.com) 
-[![Twitter](https://img.shields.io/badge/@szarbartosz-%231DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/szarbartosz)
+<!-- [![Twitter](https://img.shields.io/badge/@szarbartosz-%231DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/szarbartosz) -->
 
 - 📷 Fun fact: I'm keen on photography:
 [![Instagram](https://img.shields.io/badge/@szaryy-%23E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/szaryy/)
