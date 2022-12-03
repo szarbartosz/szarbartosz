@@ -1,5 +1,4 @@
-### Hi there! 👋
-I'm Bartek and I'm:
+### Hi! Bartek here. 👋
 
 - ✈ Currently working at **Sabre**
 
