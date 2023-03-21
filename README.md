@@ -1,4 +1,4 @@
-### Hi! Bartek here. 👋
+### Hi! Bartosz here. 👋
 
 - ✈ Currently working at **Sabre**
 
