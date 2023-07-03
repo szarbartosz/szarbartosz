@@ -1,6 +1,6 @@
 ### Hi! Bartosz here. 👋
 
-- ✈ Currently working at **Sabre**
+- ✈ Currently working at **Software Mansion**
 
 - 💻 4th year Computer Science student at AGH UST 
 
