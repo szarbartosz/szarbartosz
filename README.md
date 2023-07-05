@@ -1,8 +1,8 @@
 ### Hi! Bartosz here. 👋
 
-- ✈ Currently working at **Software Mansion**
+- 💻 Currently working at **Software Mansion**
 
-- 💻 4th year Computer Science student at AGH UST 
+- 📚 4th year Computer Science student at AGH UST 
 
 - 📫 Contact me via:
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bartosz-szar-25368a184/)](https://www.linkedin.com/in/bartosz-szar-25368a184/)
