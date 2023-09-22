@@ -11,7 +11,7 @@
 
 - 📷 Some of my photos:
 [![Instagram](https://img.shields.io/badge/@szaryy-%23E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/szaryy/)
-[![Pixieset](https://img.shields.io/badge/Pixieset-%23000000?style=flat-square&logo=producthunt&logoColor=white)]([https://www.instagram.com/szaryy/](https://szarbartosz.mypixieset.com/))
+[![Pixieset](https://img.shields.io/badge/Pixieset-%23000000?style=flat-square&logo=producthunt&logoColor=white)](https://szarbartosz.mypixieset.com)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/szarbartosz)
 
 ### 🛰 Technologies
