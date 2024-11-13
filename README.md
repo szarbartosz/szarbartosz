@@ -1,6 +1,6 @@
 ### Hi! Bartosz here. 👋🏼
 
-software engineer @ **software-mansion** with 3+ years of experience
+software engineer @ **software-mansion**
 
 ### Technologies
 
