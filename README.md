@@ -2,6 +2,14 @@
 
 software engineer @ **software-mansion**
 
+### Some of my projects
+
+❄️ [Avarisk](https://avarisk.app)
+app delivering the latest avalanche reports for the Polish Tatras straight to your phone.
+
+⚽ [Ekstraklasa](https://www.raycast.com/szarbartosz/ekstraklasa)
+Raycast extension providing real-time insights into the Polish football league.
+
 ### Technologies
 
 ![React Native](https://img.shields.io/badge/react_native-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)
