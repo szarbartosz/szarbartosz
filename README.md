@@ -4,14 +4,14 @@ software engineer @ **software-mansion**
 
 ### Some of my projects
 
+📫 [RSS Inbox](https://rss-inbox.szarbartosz.com)
+quiet RSS feed reader that lives in your status bar.
+
 ❄️ [Avarisk](https://avarisk.app)
 app delivering the latest avalanche reports for the Polish Tatras straight to your phone.
 
 ⚽ [Ekstraklasa](https://www.raycast.com/szarbartosz/ekstraklasa)
 Raycast extension providing real-time insights into the Polish football league.
-
-📫 [RSS Inbox](https://rss-inbox.szarbartosz.com)
-quiet RSS feed reader that lives in your status bar.
 
 ### Technologies
 
