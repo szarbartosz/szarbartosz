@@ -22,7 +22,7 @@ Raycast extension providing real-time insights into the Polish football league.
 
 ### Contact
 [![Email](https://img.shields.io/badge/email-%23000000?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:szarbartosz@gmail.com)](mailto:szarbartosz@gmail.com) 
-[![Linkedin](https://img.shields.io/badge/Linkedin-%23000000?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bartosz-szar-25368a184/)](https://www.linkedin.com/in/bartosz-szar-25368a184/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-%23000000?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bartosz-szar-25368a184/)](https://www.linkedin.com/in/szarbartosz/)
 <!-- [![Twitter](https://img.shields.io/badge/@szarbartosz-%231DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/szarbartosz) -->
 
 <!-- 📷 Some of my photos:
