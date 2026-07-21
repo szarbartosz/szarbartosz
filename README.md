@@ -1,5 +1,3 @@
-### Hi! Bartosz here. 👋🏼
-
 software engineer @ **software-mansion**
 
 ### Some of my projects
